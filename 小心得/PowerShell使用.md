@@ -8,6 +8,11 @@ Set-ExecutionPolicy Unrestricted
 ```
 
 ### 配置文件
+配置文件应该位于
+```language
+
+```
+
 重复直到第一句输出为True
 ```language
 test-path $Profile
