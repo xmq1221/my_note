@@ -10,10 +10,10 @@ Set-ExecutionPolicy Unrestricted
 ### 配置文件
 配置文件应该位于
 ```language
-
+C:\Users\user\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 ```
 
-重复直到第一句输出为True
+若无，生成配置文件，重复直到第一句输出为True
 ```language
 test-path $Profile
 New-Item -Path $Profile -ItemType file -Force
@@ -27,3 +27,5 @@ notepad $Profile
 function 别名 { 需要替代的命令，可以包含空格 }
 ```
 重新打开PS，生效
+
+### 参考的
