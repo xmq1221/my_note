@@ -1,7 +1,7 @@
 ## Alias设置
 
 ### 策略
-获取与修改策略级别
+获取与修改策略级别（需要管理员权限）
 ```language
 Get-ExecutionPolicy
 Set-ExecutionPolicy Unrestricted
@@ -21,4 +21,4 @@ notepad $Profile
 ```language
 function 别名 { 需要替代的命令，可以包含空格 }
 ```
-重新打开
+重新打开PS，生效
