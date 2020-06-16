@@ -16,5 +16,9 @@ New-Item -Path $Profile -ItemType file -Force
 输入别名指令
 ```language
 notepad $Profile
-
 ```
+例如，在配置文件中输入
+```language
+function 别名 { 需要替代的命令，可以包含空格 }
+```
+重新打开
