@@ -2,7 +2,10 @@
 
 $$ Softmax(x_i)=\frac{\exp(x_i)}{\sum_j\exp(x_j)} $$
 
-### 
+### CrossEntropy Loss in Pytorch
+This criterion combines nn.LogSoftmax() and nn.NLLLoss() in one single class.
+Pytorch官方文档里给出，交叉熵就是softmax和NLL loss的结合
+
 
 ### 参考
 
