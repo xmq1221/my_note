@@ -6,3 +6,7 @@
 pip install visdom==0.1.8.8
 ```
 
+打开visodm
+```language
+visdom -port 5666
+```
