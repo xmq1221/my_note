@@ -13,3 +13,4 @@ Pytorch官方文档里给出，交叉熵就是log softmax和NLL loss的结合
 [CROSSENTROPYLOSS](https://pytorch.org/docs/master/generated/torch.nn.CrossEntropyLoss.html)
 [Pytorch里的CrossEntropyLoss详解](https://www.cnblogs.com/marsggbo/p/10401215.html)
 
+
