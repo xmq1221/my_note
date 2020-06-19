@@ -28,9 +28,10 @@
 ```language
 .vscode
 ```
- 
-***.vscode*** 文件夹，以及用户文件夹下的
- ***AppData\Roaming\Code*** 文件夹
+文件夹，以及用户文件夹下的
+```language
+AppData\Roaming\Code
+```
 
 > 删掉重装解决了，虽然不知为何
 
