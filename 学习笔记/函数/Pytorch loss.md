@@ -1,4 +1,5 @@
 # Softmax
+非loss
 ## 公式
 
 $$ Softmax(x_i)=\frac{\exp(x_i)}{\sum_j\exp(x_j)} $$
@@ -12,6 +13,11 @@ Pytorch官方文档里给出，交叉熵就是log softmax和NLL loss的结合
 
 ## 公式
 $$ LogSoftmax(x_i)=\log(\frac{\exp(x_i)}{\sum_j\exp(x_j)}) $$
+
+# NLLLoss
+
+## 公式
+
 
 
 ### 参考
