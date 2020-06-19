@@ -24,7 +24,7 @@
 ```language
 .vscode-server
 ```
-* 删掉vscode以及它所有的设置重装，包括用户文件夹下的
+* 删掉vscode客户端以及它所有的设置重装，包括用户文件夹下的
 ```language
 .vscode
 ```
