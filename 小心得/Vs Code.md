@@ -6,7 +6,12 @@ markdownlint
 ## LaTeX 
 LaTeX Workshop
 
-## 
+## SSH
+Remote - SSH
+
+## Python
+Python
+
 
 # Python
 
