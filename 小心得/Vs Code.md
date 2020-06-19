@@ -7,11 +7,11 @@
 * LaTeX Workshop
 
 ## SSH
-Remote - SSH
+* Remote - SSH
 
 ## Python
-Python
-Prettier 
+* Python
+* Prettier 
 
 # Python
 
