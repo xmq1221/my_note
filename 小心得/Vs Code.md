@@ -1,17 +1,17 @@
 # 插件
 
 ## Markdown
-markdownlint
+* markdownlint
 
 ## LaTeX 
-LaTeX Workshop
+* LaTeX Workshop
 
 ## SSH
 Remote - SSH
 
 ## Python
 Python
-
+Prettier 
 
 # Python
 
