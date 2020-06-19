@@ -8,6 +8,8 @@
 
 ## 无法跳转到定义处
 * 删掉服务器用户路径下的 ***.vscode-server*** 文件夹
-* 删掉vscode重装，包括用户文件夹下的 ***.vscode*** 文件夹，以及
+* 删掉vscode重装，包括用户文件夹下的 ***.vscode*** 文件夹，以及用户文件夹下的
+ ***AppData\Roaming\Code***
+
 
 
