@@ -5,5 +5,8 @@ total_loss += loss
 ```
 pytorch中的tensor，有的写成了 += 会开始报错，似乎不支持原位修改？
 
-**解决**
+### 解决
+```python
+total_loss = total_loss + loss
 
+```
