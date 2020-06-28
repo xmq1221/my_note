@@ -43,6 +43,10 @@ function 别名 { 需要替代的命令，可以包含空格 }
 Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
 
+Set-Prompt
+Get-Theme
+# 感觉这个主题最好看
+
 ```
 
 
