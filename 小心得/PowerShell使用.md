@@ -69,9 +69,21 @@ Screenfetch
 
 ### BUG
 ```language
+尝试除以零。
+所在位置 C:\Users\xmq\Documents\WindowsPowerShell\Modules\windows-screenfetch\1.0.2\Data.psm1:174 字符: 13
++             $FreeDiskPercent = ($FreeDiskSizeGB / $DiskSizeGB) * 100;
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], RuntimeException
+    + FullyQualifiedErrorId : RuntimeException
 
+尝试除以零。
+所在位置 C:\Users\xmq\Documents\WindowsPowerShell\Modules\windows-screenfetch\1.0.2\Data.psm1:178 字符: 13
++             $UsedDiskPercent = ($UsedDiskSizeGB / $DiskSizeGB) * 100;
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], RuntimeException
+    + FullyQualifiedErrorId : RuntimeException
 ```
-
+screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现在仍是一个
 
 
 
