@@ -65,6 +65,12 @@ Install-Module windows-screenfetch -Scope CurrentUser
 ```language
 Screenfetch
 ```
+![screenfetch效果](../.local/1593325708(1).png)
+
+### BUG
+```language
+
+```
 
 
 
