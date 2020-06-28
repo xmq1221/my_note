@@ -36,7 +36,7 @@ function 别名 { 需要替代的命令，可以包含空格 }
 [【探索PowerShell 】【三】PowerShell下使用Aliases](https://blog.51cto.com/marui/290067)
 
 ## Windows Terminal 默认 Powershell
-打开终端设置文件，
+打开终端设置文件，将PS的guid填入"defaultProfile"
 
 ## 美化
 
