@@ -39,6 +39,9 @@ function 别名 { 需要替代的命令，可以包含空格 }
 
 ### 安装oh-my-posh和posh-git
 ```language
+# 阅读提示，正确选择y和n（会出现不受信任的）
+Install-Module posh-git -Scope CurrentUser
+Install-Module oh-my-posh -Scope CurrentUser
 
 ```
 
