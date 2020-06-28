@@ -55,7 +55,7 @@ Get-Theme
 # 感觉这个主题最好看
 Set-Theme Powerline
 ```
-
+![1593311570.png](0)
 
 
 
