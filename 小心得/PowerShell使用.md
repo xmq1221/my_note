@@ -68,7 +68,7 @@ Screenfetch
 使用这个打开会变慢，还有bug，先不用了。。。
 ![screenfetch效果](../.local/1593325708(1).png)
 
-### BUG
+#### BUG
 ```language
 尝试除以零。
 所在位置 C:\Users\xmq\Documents\WindowsPowerShell\Modules\windows-screenfetch\1.0.2\Data.psm1:174 字符: 13
@@ -88,6 +88,14 @@ screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现
 
 [Zero-sized disks cause divide by zero exception #14](https://github.com/JulianChow94/Windows-screenFetch/issues/14)
 
+### 安装PSColor
+```language
+Install-Module PSColor -Scope CurrentUser
+```
+打开配置文件（此步骤同上），加入
+```language
+
+```
 
 
 
