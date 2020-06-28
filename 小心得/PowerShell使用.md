@@ -102,7 +102,13 @@ Import-Module PSColor
 #### 参考
 [PowerShell 美化指南](https://coolcode.org/2018/03/16/how-to-make-your-powershell-beautiful/)
 
-## yixi
+## 一些有用的脚本
+
+### which
+
+#### 参考
+[几个有用的 PowerShell 脚本](https://coolcode.org/2018/03/19/some-useful-scripts-of-powershell/)
+
 
 
 
