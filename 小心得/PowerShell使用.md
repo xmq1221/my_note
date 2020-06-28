@@ -103,7 +103,7 @@ Import-Module PSColor
 [PowerShell 美化指南](https://coolcode.org/2018/03/16/how-to-make-your-powershell-beautiful/)
 
 ### 安装更纱黑体
-在[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
+在[Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)下一个安装包安装，在PS的设置里设置一下即可
 
 
 ## 一些有用的脚本
