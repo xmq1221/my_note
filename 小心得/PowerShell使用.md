@@ -46,10 +46,9 @@ Install-Module oh-my-posh -Scope CurrentUser
 ```
 打开配置文件
 ```language
-
+if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force } notepad $PROFILE
 ```
-
-
+写入，每次打开PS都生效
 ```language
 Set-Prompt
 Get-Theme
