@@ -56,6 +56,6 @@ Get-Theme
 Set-Theme Powerline
 ```
 
-![1593311570.png](0)
+
 
 
