@@ -61,6 +61,10 @@ Set-Theme Powerline
 ```language
 Install-Module windows-screenfetch -Scope CurrentUser
 ```
+打开配置文件（此步骤同上），加入
+```language
+
+```
 
 
 
