@@ -57,7 +57,7 @@ Set-Theme Powerline
 ```
 ![PS主题效果](../.local/1593311570.png)
 
-![pic](~/.local/1593311570.png)
+![pic](.local/1593311570.png)
 
 
 
