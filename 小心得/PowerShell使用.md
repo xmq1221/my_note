@@ -57,6 +57,11 @@ Set-Theme Powerline
 ```
 ![PS主题效果](../.local/1593311570.png)
 
+### 安装ScreenFetch
+```language
+Install-Module windows-screenfetch -Scope CurrentUser
+```
+
 
 
 
