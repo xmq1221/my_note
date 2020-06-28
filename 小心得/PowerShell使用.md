@@ -29,6 +29,8 @@ function 别名 { 需要替代的命令，可以包含空格 }
 重新打开PS，生效
 
 ### 参考
+[Windows PowerShell 配置文件](https://forsenergy.com/zh-cn/windowspowershellhelp/html/9c82251c-6f0d-416a-9c3c-77838218531b.htm)
+
 [为 Windows PowerShell 设置 User Alias （命令别名）](https://blog.vvzero.com/2019/07/22/set-user-alias-for-windows-PowerShell/)
 
 [【探索PowerShell 】【三】PowerShell下使用Aliases](https://blog.51cto.com/marui/290067)
