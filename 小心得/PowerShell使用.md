@@ -99,7 +99,8 @@ Install-Module PSColor -Scope CurrentUser
 ```language
 Import-Module PSColor
 ```
-####
+#### 参考
+[PowerShell 美化指南](https://coolcode.org/2018/03/16/how-to-make-your-powershell-beautiful/)
 
 
 
