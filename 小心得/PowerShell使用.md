@@ -65,6 +65,7 @@ Install-Module windows-screenfetch -Scope CurrentUser
 ```language
 Screenfetch
 ```
+使用这个打开会变慢，
 ![screenfetch效果](../.local/1593325708(1).png)
 
 ### BUG
@@ -83,8 +84,9 @@ Screenfetch
     + CategoryInfo          : NotSpecified: (:) [], RuntimeException
     + FullyQualifiedErrorId : RuntimeException
 ```
-screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现在仍是一个bug
+screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现在仍是一个bug，未解决
 
+[Zero-sized disks cause divide by zero exception #14](https://github.com/JulianChow94/Windows-screenFetch/issues/14)
 
 
 
