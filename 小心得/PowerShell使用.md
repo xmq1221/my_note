@@ -46,7 +46,7 @@ Install-Module oh-my-posh -Scope CurrentUser
 Set-Prompt
 Get-Theme
 # 感觉这个主题最好看
-
+Set-Theme Powerline
 ```
 
 
