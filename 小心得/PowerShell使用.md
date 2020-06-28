@@ -83,7 +83,9 @@ Screenfetch
     + CategoryInfo          : NotSpecified: (:) [], RuntimeException
     + FullyQualifiedErrorId : RuntimeException
 ```
-screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现在仍是一个
+screenfetch打开后会出现尝试除以零的bug，但上面的也显示，现在仍是一个bug
+
+
 
 
 
