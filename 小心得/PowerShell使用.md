@@ -65,7 +65,7 @@ Install-Module windows-screenfetch -Scope CurrentUser
 ```language
 Screenfetch
 ```
-使用这个打开会变慢，
+使用这个打开会变慢，还有bug，先不用了。。。
 ![screenfetch效果](../.local/1593325708(1).png)
 
 ### BUG
