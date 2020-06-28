@@ -55,7 +55,7 @@ Get-Theme
 # 感觉这个主题最好看
 Set-Theme Powerline
 ```
-![PS主题效果](./.local/1593311570.png)
+![PS主题效果](/.local/1593311570.png)
 
 
 
