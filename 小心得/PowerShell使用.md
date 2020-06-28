@@ -105,7 +105,7 @@ Import-Module PSColor
 ## 一些有用的脚本
 
 ### which
-PS无
+PS无which，配置linux中的which
 
 #### 参考
 [几个有用的 PowerShell 脚本](https://coolcode.org/2018/03/19/some-useful-scripts-of-powershell/)
