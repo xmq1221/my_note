@@ -55,8 +55,6 @@ Get-Theme
 # 感觉这个主题最好看
 Set-Theme Powerline
 ```
-![1593311570.png](0)
-
-
+![PS主题效果](https://github.com/xmq1221/my_note/blob/master/.local/1593311570.png)
 
 
