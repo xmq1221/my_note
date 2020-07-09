@@ -7,4 +7,8 @@ Pytorch新出的书封面上有 foreward by Soumith Chintala 。
 因此去查了一下，这几个词的区别。
 
 > foreword 是由作者以外的某人或某些人所撰寫，可能是業界的專家學者、同類型書籍的作家或其他人，而 preface 則是由作者本人所撰寫。
-> 
+Introduction (亦叫做 prolegomenon) 則意為「引言；前言；導言；緒論；簡介」，顧名思義是書籍的內容簡介，通常被視為正文的一部份，因此頁碼是從此編起，頁數也是從此算起。
+
+### 参考
+[Foreword, preface, introduction (nn.)](https://blog.cybertranslator.idv.tw/archives/3116)
+
