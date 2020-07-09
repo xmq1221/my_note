@@ -1,4 +1,4 @@
 ## Foreword
 前言？似乎这三个词翻译过来都差不多
-![pytorch书](../.local/)
 
+![](../.local/)
