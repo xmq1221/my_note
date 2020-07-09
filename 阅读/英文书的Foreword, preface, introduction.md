@@ -6,4 +6,5 @@
 Pytorch新出的书封面上有 foreward by Soumith Chintala 。
 因此去查了一下，这几个词的区别。
 
+> foreword 是由作者以外的某人或某些人所撰寫，可能是業界的專家學者、同類型書籍的作家或其他人，而 preface 則是由作者本人所撰寫。
 > 
