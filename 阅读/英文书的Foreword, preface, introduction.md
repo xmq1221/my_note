@@ -12,3 +12,4 @@ Introduction (亦叫做 prolegomenon) 則意為「引言；前言；導言；緒
 ### 参考
 [Foreword, preface, introduction (nn.)](https://blog.cybertranslator.idv.tw/archives/3116)
 
+[Foreword, Preface, Introduction之间的区别](https://lingo.csmage.com/blog/2016/12/26/foreword-preface-introduction%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB/)
