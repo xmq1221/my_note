@@ -3,4 +3,5 @@
 
 ![Deep-Learning-with-PyTorch封面](../.local/Deep-Learning-with-PyTorch.jpg)
 
-Pytorch新出的书封面上有 foreward by
+Pytorch新出的书封面上有 foreward by Soumith Chintala 。
+因此去查了一下，
