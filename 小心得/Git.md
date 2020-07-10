@@ -57,6 +57,13 @@ git is already the newest version (1:2.17.1-1ubuntu0.7).
 
 和现在官网的 2.27.0 不同
 添加源
+```language
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install -y git
+```
+
+输出版本，可得 2.27.0
 
 
 
