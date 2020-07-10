@@ -25,7 +25,7 @@ cd /etc/apt
 sudo vi sources.list
 ```
 
-在 sources.list 中加入，保存
+在 sources.list 中加入
 ```language
 deb http://ftp.ca.debian.org/debian/ jessie main contrib non-free
 deb-src http://ftp.ca.debian.org/debian/ jessie main contrib non-free
@@ -39,3 +39,9 @@ deb-src http://ftp.ca.debian.org/debian/ jessie-updates main contrib non-free
 deb http://ftp.ca.debian.org/debian/ jessie-backports main contrib non-free
 ```
 
+保存
+```language
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git
+```
