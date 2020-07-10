@@ -10,5 +10,8 @@ git update-git-for-windows
 
 #### Ubuntu
 ```language
-
+sudo apt-get install git
 ```
+#### bug
+
+升级git出现
