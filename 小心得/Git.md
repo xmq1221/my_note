@@ -46,8 +46,6 @@ sudo apt-get upgrade
 sudo apt-get install git
 ```
 
-
-
 ### 参考
 
 [Pro Git book](https://git-scm.com/book/en/v2)
