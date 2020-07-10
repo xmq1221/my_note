@@ -25,7 +25,7 @@ cd /etc/apt
 sudo vi sources.list
 ```
 
-在 sources.list 中加入
+在 sources.list 中加入(国外的源，需要代理)
 ```language
 deb http://ftp.ca.debian.org/debian/ jessie main contrib non-free
 deb-src http://ftp.ca.debian.org/debian/ jessie main contrib non-free
@@ -48,4 +48,5 @@ sudo apt-get install git
 
 ### 参考
 
+[Pro Git book]()
 [Unable to install git - Unmet dependencies error (Ubuntu 11.10)](https://stackoverflow.com/questions/16820820/unable-to-install-git-unmet-dependencies-error-ubuntu-11-10)
