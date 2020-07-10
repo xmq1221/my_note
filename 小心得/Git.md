@@ -45,11 +45,18 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
 ```
+
 输出
 ```language
-
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+git is already the newest version (1:2.17.1-1ubuntu0.7).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
 ```
 
+和现在官网的 2.27.0 不同
+添加源
 
 
 
