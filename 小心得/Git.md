@@ -48,5 +48,5 @@ sudo apt-get install git
 
 ### 参考
 
-[Pro Git book]()
+[Pro Git book](https://git-scm.com/book/en/v2)
 [Unable to install git - Unmet dependencies error (Ubuntu 11.10)](https://stackoverflow.com/questions/16820820/unable-to-install-git-unmet-dependencies-error-ubuntu-11-10)
