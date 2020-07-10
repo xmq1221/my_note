@@ -1,4 +1,4 @@
-## Git 升级
+## Git install and update
 
 ### Windows
 
@@ -45,3 +45,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
 ```
+
+### 参考
+
+[Unable to install git - Unmet dependencies error (Ubuntu 11.10)](https://stackoverflow.com/questions/16820820/unable-to-install-git-unmet-dependencies-error-ubuntu-11-10)
