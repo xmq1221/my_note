@@ -45,6 +45,13 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
 ```
+输出
+```language
+
+```
+
+
+
 
 #### Git-all
 > Git-all contains all sub-packages, whilst Git only includes main components with minimal dependencies.
