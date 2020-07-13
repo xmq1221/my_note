@@ -123,7 +123,11 @@ PS无which，配置linux中的which
 
 ### oh-my-zsh
 
-#### 
+#### 更新
+
+```language
+upgrade_oh_my_zsh
+```
 
 
 
