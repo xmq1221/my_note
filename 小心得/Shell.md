@@ -119,6 +119,11 @@ PS无which，配置linux中的which
 
 # Shell
 
+## 美化
+
+### oh-my-zsh
+
+#### 
 
 
 
