@@ -124,7 +124,7 @@ PS无which，配置linux中的which
 
 ## PS 实用的参考网站
 
-[]
+[吴波的博客](https://blog.vichamp.com/)
 
 
 # Shell
