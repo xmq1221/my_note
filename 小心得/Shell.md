@@ -3,6 +3,14 @@
 ## Windows Terminal 默认 Powershell
 打开终端设置文件，将PS的guid填入 **"defaultProfile"**
 
+## 更新
+获取版本
+```language
+Get-Host | Select-Object Version
+```
+
+
+
 ## Alias设置
 
 ### 策略
