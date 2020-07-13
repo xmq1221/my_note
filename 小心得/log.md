@@ -15,4 +15,10 @@ python train.py 2>&1 | tee log.txt
 TO-DO
 
 ## 使用python中的log
-~~TO-DO~~ 
+
+~~TO-DO~~ 已做完
+
+```python
+import logging
+```
+
