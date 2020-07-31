@@ -5,4 +5,6 @@
 > the small inter-class variations and the large intra-class variations
 
 ## 相关论文
-* Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization
+
+### 2020
+* Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization(MMAL-Net)
