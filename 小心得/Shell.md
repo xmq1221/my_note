@@ -131,7 +131,14 @@ PS无which，配置linux中的which
 
 ## Zsh
 
-### 
+### 设置Zsh为默认Shell
+找到zsh
+```language
+which zsh
+```
+为自己设置默认的shell
+
+
 
 ### oh-my-zsh
 
