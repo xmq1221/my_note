@@ -137,6 +137,9 @@ PS无which，配置linux中的which
 which zsh
 ```
 为自己设置默认的shell
+```language
+chsh -s /bin/bin/zsh user
+```
 
 
 
