@@ -149,6 +149,11 @@ chsh -s /bin/bin/zsh user
 ```language
 upgrade_oh_my_zsh
 ```
+ 新版更新
+```language
+omz update
+```
+
 
 
 
