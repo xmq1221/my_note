@@ -129,7 +129,9 @@ PS无which，配置linux中的which
 
 # Shell
 
-## 美化
+## Zsh
+
+### 
 
 ### oh-my-zsh
 
@@ -138,6 +140,7 @@ PS无which，配置linux中的which
 ```language
 upgrade_oh_my_zsh
 ```
+
 
 
 
