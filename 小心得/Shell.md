@@ -132,6 +132,7 @@ PS无which，配置linux中的which
 ## Zsh
 
 ### 设置Zsh为默认Shell
+如果不小心把zsh除去了默认了shell（哭了）
 找到zsh
 ```language
 which zsh
@@ -140,8 +141,6 @@ which zsh
 ```language
 chsh -s /bin/bin/zsh user
 ```
-
-
 
 ### oh-my-zsh
 
