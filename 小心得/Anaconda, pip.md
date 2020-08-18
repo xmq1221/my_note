@@ -2,6 +2,12 @@
 
 ### 环境
 ```language
+conda create -n myenv python=3.6
+or
+conda env create -f environment.yml
+```
+or
+```language
 
 ```
 
