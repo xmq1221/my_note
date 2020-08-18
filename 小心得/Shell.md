@@ -139,7 +139,7 @@ which zsh
 ```
 为自己设置默认的shell
 ```language
-chsh -s /bin/bin/zsh user
+chsh -s /user/bin/zsh user
 ```
 
 ### oh-my-zsh
