@@ -1,5 +1,11 @@
 ## Anaconda
 
+### 环境
+```language
+
+```
+
+
 ### 换源
 打开
 ```language
