@@ -1,5 +1,6 @@
 ## Anaconda
 
+### 换源
 打开
 ```language
 vi .condarc
@@ -8,12 +9,13 @@ vi .condarc
 输入清华镜像中列出的
 
 
-### 参考
+#### 参考
 [Anaconda 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 
 
 ## pip
 
+### 换源
 打开
 ```language
 vi ~/.pip/pip.conf
