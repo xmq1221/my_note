@@ -1,4 +1,4 @@
-## Anaconda
+## conda
 
 ### 环境
 ```language
@@ -22,7 +22,7 @@ vi .condarc
 
 #### 参考
 [Anaconda 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
-
+[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#restoring-an-environment)
 
 ## pip
 
