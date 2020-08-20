@@ -14,3 +14,4 @@
 ### 参考
 [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure))
 [树的高度于深度不一样，高度从1数起，深度从0数起，对吗？](https://www.zhihu.com/question/40286584)
+[What is the difference between tree depth and height?](https://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height)
