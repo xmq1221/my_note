@@ -6,6 +6,9 @@
 >* 深度：对于任意节点n,n的深度为从根到n的唯一路径长，根的深度为0；
 >* 高度：对于任意节点n,n的高度为从n到一片树叶的最长路径长，所有树叶的高度为0；
 
+![tree](./)
+
+
 ### 参考
 [Tree (data structure)](https://en.wikipedia.org/wiki/Tree_(data_structure))
 [树的高度于深度不一样，高度从1数起，深度从0数起，对吗？](https://www.zhihu.com/question/40286584)
