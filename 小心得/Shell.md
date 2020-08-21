@@ -1,4 +1,4 @@
-# PoweShell
+# PowerShell
 
 ## Windows Terminal 默认 Powershell
 打开终端设置文件，将PS的guid填入 **"defaultProfile"**
@@ -145,7 +145,7 @@ chsh -s /user/bin/zsh user
 ### oh-my-zsh
 
 #### 更新
-
+旧版
 ```language
 upgrade_oh_my_zsh
 ```
