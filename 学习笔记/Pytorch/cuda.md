@@ -22,7 +22,7 @@ For CUDA tensors, this function returns the device ordinal of the GPU on which t
 ```python
 print(x.device)
 ```
-
+直接返回设备
 
 #### 参考
 [torch.Tensor.get_device](https://pytorch.org/docs/1.5.0/tensors.html?highlight=get_device#torch.Tensor.get_device)
