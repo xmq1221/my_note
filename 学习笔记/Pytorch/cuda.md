@@ -16,7 +16,13 @@ x = torch.randn(3, 4, 5, device='cuda:0')
 > get_device() -> Device ordinal (Integer) 
 For CUDA tensors, this function returns the device ordinal of the GPU on which the tensor resides. For CPU tensors, an error is thrown.
 
-在 cuda 上会返回卡号， cpu上会报错
+~~在 cuda 上会返回卡号， cpu上会报错~~
+但是我实测了一下不会报错，cpu会返回-1
+
+```python
+print(x.device)
+```
+
 
 #### 参考
 [torch.Tensor.get_device](https://pytorch.org/docs/1.5.0/tensors.html?highlight=get_device#torch.Tensor.get_device)
