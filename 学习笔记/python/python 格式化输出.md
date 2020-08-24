@@ -27,4 +27,12 @@
 }
 ```
 
-## 
+## pprint
+```python
+>>> import pprint
+>>> pprint.pprint(mapping)
+{'a': 23, 'b': 42, 'c': 12648430, 'd': set([1, 2, 3])}
+```
+
+## 参考
+[]()
