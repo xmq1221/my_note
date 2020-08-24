@@ -15,7 +15,9 @@
 # 字典
 ## json
 ```python
->>> import json
+>>> mapping = {'a': 23, 'b': 42, 'c': 0xc0ffee}
+>>> str(mapping)
+{'b': 42, 'c': 12648430, 'a': 23}>>> import json
 >>> json.dumps(mapping, indent=4, sort_keys=True)
 
 {
@@ -23,5 +25,6 @@
     "b": 42,
     "c": 12648430
 }
-
 ```
+
+## 
