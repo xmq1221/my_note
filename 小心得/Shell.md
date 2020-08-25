@@ -69,7 +69,7 @@ Set-Theme Powerline
 ![PS主题效果](../.local/1593311570.png)
 
 #### 更新oh-my-posh
-需要加一个-
+需要加一个-Force来安装新版
 ```language
 Install-Module -Force -Name oh-my-posh
 ```
