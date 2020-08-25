@@ -68,6 +68,13 @@ Set-Theme Powerline
 ```
 ![PS主题效果](../.local/1593311570.png)
 
+#### 更新oh-my-posh
+需要加一个-
+```language
+Install-Module -Force -Name oh-my-posh
+```
+
+
 ### 安装ScreenFetch
 ```language
 Install-Module windows-screenfetch -Scope CurrentUser
