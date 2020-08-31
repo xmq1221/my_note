@@ -19,5 +19,7 @@ them by using dense and local operations. We extend the architecture by split-tr
 modulate-merge stages, and this allows to capture the global context by reasoning with
 sparse interactions between high-level visual concepts from different branches.
 
+这篇论文有了更高的
+
 ## 参考
 2017 [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
