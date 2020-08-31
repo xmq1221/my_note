@@ -7,3 +7,4 @@
 
 参考
 [• 正确处理单词间距](https://ridiqulous.com/latex-notes-details/)
+[Correct way to define macros \etc \ie in latex](https://stackoverflow.com/questions/3282319/correct-way-to-define-macros-etc-ie-in-latex)
