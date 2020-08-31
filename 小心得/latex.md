@@ -5,7 +5,9 @@
 
 然而还有一种特殊情况下，TeX 并不会认为句号表示句子的结尾，那就是句号跟在一个大写字母的后面。此时 TeX 会认为这个句号表示人名缩写的间隔符，因此仍然按照正常间距来排版，比如 「A. Einstein」。然而这个看似贴心的规则在一些情况下会适得其反，比如一句话明明以缩略语结尾，TeX 反而认为这并不是一句话的结尾：「…… in NBA. He…」。此时，排版出的「He」之前的空格会小于正常的句间间距。这种情况下，需要使用 \@. （反斜杠 + @ + 句号 + 空格）来取代原先的句号，即 ... in NBA\@. He...。\@ 用来强制告诉 TeX 这里的的确确是一个句子的结尾。
 
-参考
+* i.e. 可以与 
+
+### 参考
 [• 正确处理单词间距](https://ridiqulous.com/latex-notes-details/)
 [Correct way to define macros \etc \ie in latex](https://stackoverflow.com/questions/3282319/correct-way-to-define-macros-etc-ie-in-latex)
 [论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生
