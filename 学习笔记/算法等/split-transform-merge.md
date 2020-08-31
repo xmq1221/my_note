@@ -7,3 +7,6 @@ split-transform-merge strategy
 resent，inception 以及它们的变体
 
 - **ResNeXt**: Aggregated Residual Transformations for Deep Neural Networks
+
+## 参考
+[An Overview of ResNet and its Variants]()
