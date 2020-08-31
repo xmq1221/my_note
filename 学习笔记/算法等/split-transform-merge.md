@@ -4,4 +4,4 @@
 ## 相关论文
 split-transform-merge strategy
 
-resent，inception系列以及他们 
+resent，inception 以及它们的变体
