@@ -18,5 +18,8 @@
 
 ## Dendrogram
 **树状结构图**
+> A dendrogram is a diagram representing a tree. This diagrammatic representation is frequently used in different contexts:
+
+
 wiki
 [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram)
