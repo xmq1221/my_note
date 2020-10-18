@@ -19,3 +19,5 @@ Hierarchical clustering starts by treating each observation as a separate cluste
 
 [Hierarchical clustering
 From Wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+
+[](https://www.statsandr.com/blog/files/Hierarchical-clustering-cheatsheet.pdf)
