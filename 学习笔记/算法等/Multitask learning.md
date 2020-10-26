@@ -1,8 +1,8 @@
 # 随手记
 
 ## MTL 特点
-- 
-- a model must leverage commonalities in the tasks (positive transfer) while minimizing interference (negative transfer).
+- positive transfer(max), negative transfer(min)
+	- a model must leverage commonalities in the tasks (positive transfer) while minimizing interference (negative transfer).
 
 
 ## 特点
