@@ -1,4 +1,4 @@
-## 随手记
+# 随手记
 
 
 ## 参考
@@ -16,3 +16,8 @@ typical CNN learns hierarchical natural of the feature representations
 
 #### 缺点
 - Over-sharing a network could erroneously enforce over-generalization, causing negative knowledge transfer across tasks
+
+
+# Routing Newtorks
+
+## 
