@@ -1,11 +1,9 @@
 # 随手记
 
-## 
+## MTL 特点
+- 
+- a model must leverage commonalities in the tasks (positive transfer) while minimizing interference (negative transfer).
 
-
-
-## 参考
-[An Overview of Multi-Task Learning in Deep Neural Networks](https://ruder.io/multi-task/)
 
 ## 特点
 
@@ -20,7 +18,8 @@ typical CNN learns hierarchical natural of the feature representations
 #### 缺点
 - Over-sharing a network could erroneously enforce over-generalization, causing negative knowledge transfer across tasks
 
-
+## 参考
+[An Overview of Multi-Task Learning in Deep Neural Networks](https://ruder.io/multi-task/)
 
 
 # Routing Newtorks
