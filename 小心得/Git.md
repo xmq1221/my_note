@@ -6,6 +6,9 @@
 git update-git-for-windows
 ```
 
+#### update
+直接去[官网](https://git-scm.com/downloads)下载安装包更新
+
 ### Linux
 
 #### Ubuntu
