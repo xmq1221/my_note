@@ -71,10 +71,16 @@ sudo apt-get install -y git
 > Git-all contains all sub-packages, whilst Git only includes main components with minimal dependencies.
 
 #### update
+```language
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt update
+sudo apt install git
+```
 
 
 ### 参考
 
+[Download for Linux and Unix](https://git-scm.com/download/linux)
 [Pro Git book](https://git-scm.com/book/en/v2)
 [Unable to install git - Unmet dependencies error (Ubuntu 11.10)](https://stackoverflow.com/questions/16820820/unable-to-install-git-unmet-dependencies-error-ubuntu-11-10)
 [Difference between installing git vs installing git-all](https://askubuntu.com/questions/796600/difference-between-installing-git-vs-installing-git-all)
