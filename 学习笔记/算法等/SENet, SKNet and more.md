@@ -8,7 +8,7 @@
 SENet 具有 channel-wise attention
 
 ## model complexity
-![](../..)
+![](../../.local/senet_complexity.jpeg)
 
 
 ## references
