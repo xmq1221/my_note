@@ -10,7 +10,7 @@ SENet 具有 channel-wise attention
 
 # Channel Distillation
 
-仅用了
+仅用了 GAP 去计算特征图的weights
 
 
 
