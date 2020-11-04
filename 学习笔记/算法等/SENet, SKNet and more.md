@@ -14,5 +14,7 @@ SENet 具有 channel-wise attention
 
 仅用了 GAP 去计算特征图的weights
 
+## bug
+
 
 
