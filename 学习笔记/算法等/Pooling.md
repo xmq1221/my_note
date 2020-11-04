@@ -5,4 +5,4 @@
 # Global Average Pooling
 
 ## references
-[Network In Network]（
+[Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
