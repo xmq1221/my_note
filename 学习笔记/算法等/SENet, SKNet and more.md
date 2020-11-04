@@ -7,6 +7,9 @@
 
 SENet 具有 channel-wise attention
 
+## references
+[]()
+
 
 # Channel Distillation
 
