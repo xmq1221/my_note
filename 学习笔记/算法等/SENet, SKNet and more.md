@@ -8,7 +8,8 @@
 SENet 具有 channel-wise attention
 
 ## references
-[]()
+[Compression and network optimization model: SeNet understand network](https://programmersought.com/article/11943336616/)
+
 
 
 # Channel Distillation
