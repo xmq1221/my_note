@@ -18,7 +18,7 @@
 ## Flake8
 
 ## 环境
-在项目目录下下 `.vscode` 文件夹里  `settings.json` 文件，设置 python 路径与
+在项目目录下下 `.vscode` 文件夹里  `settings.json` 文件，设置 python 路径与是否在终端里自动激活环境
 ```language
     "python.pythonPath": "/user/bin/python",
     "python.terminal.activateEnvironment": true
