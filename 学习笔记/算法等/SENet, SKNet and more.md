@@ -7,14 +7,6 @@
 
 SENet 具有 channel-wise attention
 
-## model complexity
-![](../../.local/senet_complexity.jpeg)
-
-
-## references
-[Compression and network optimization model: SeNet understand network](https://programmersought.com/article/11943336616/)
-
-
 
 # Channel Distillation
 
@@ -22,10 +14,10 @@ SENet 具有 channel-wise attention
 
 仅用了 GAP 去计算特征图的weights
 
-# Ours
-
-## bugs
+## bug
 ![](../../.local/se_bug.png)
 
+
+#
 
 
