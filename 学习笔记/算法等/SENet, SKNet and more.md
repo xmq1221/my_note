@@ -13,9 +13,10 @@ SENet 具有 channel-wise attention
 # Channel Distillation
 
 >We use GAP to calculate the importance of each channel’s feature map, which represnets attention information of each channel. Then we consider the attention information of each channel’s feature map as knowledge. The
+[Channel Distillation: Channel-Wise Attention for Knowledge Distillation](https://arxiv.org/abs/2006.01683)
 
 仅用了 GAP 去计算特征图的weights
-
+虽然此方法0参数，但是由于 GAP 输出的是 feature 的
 
 # ECA-Net
 
