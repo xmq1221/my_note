@@ -27,7 +27,9 @@ SENet 具有 channel-wise attention
 
 # CondConv
 
- 
+## references
+[CondConv：按需定制的卷积权重](https://aijishu.com/a/1060000000021494)
+介绍了很多和分支，条件计算
 
 
 
