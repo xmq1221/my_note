@@ -16,7 +16,7 @@ SENet 具有 channel-wise attention
 [Channel Distillation: Channel-Wise Attention for Knowledge Distillation](https://arxiv.org/abs/2006.01683)
 
 仅用了 GAP 去计算特征图的weights
-虽然此方法0参数，但是由于 GAP 输出的是 feature 的
+虽然此方法0参数，但是由于 GAP 输出的是每个通道 feature map 的统计结果，作为 attention 仍对效果有提升
 
 # ECA-Net
 
