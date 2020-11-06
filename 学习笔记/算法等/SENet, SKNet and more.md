@@ -21,6 +21,7 @@ SENet 具有 channel-wise attention
 
 >we empirically show avoiding dimensionality reduction is important for learning channel attention, and appropriate cross-channel interac- tion can preserve performance while significantly decreas- ing model complexity.
 
-
+- SENet 的降维操作对精度有损失
+- 适当的通道间交互可以在保持性能时也降低模型复杂度
 
 
