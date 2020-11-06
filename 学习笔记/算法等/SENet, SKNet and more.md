@@ -19,6 +19,8 @@ SENet 具有 channel-wise attention
 
 # ECA-Net
 
+>we empirically show avoiding dimensionality reduction is important for learning channel attention, and appropriate cross-channel interac- tion can preserve performance while significantly decreas- ing model complexity.
+
 
 
 
