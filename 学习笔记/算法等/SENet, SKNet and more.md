@@ -46,11 +46,17 @@ SENet 具有 channel-wise attention
 [Non-local neural networks-zhihu](https://zhuanlan.zhihu.com/p/33345791)
 
 
+# SAD: Learning lightweight lane detection CNNS by self attention distillation 
+
+> SAD is only used in the training phase and brings no computational cost during the deployment.
+
+
 # attention
 
 attention map 为统计每个通道上空间中的注意力， channel-wise attention 为统计对每个通道的注意力，一个是在空间上挤压，一个是在维度上挤压，是不是可以都注意一下呢？
 
 attention map: Paying More Attention To Attention : Improving the P Erformance of Convolutional
 channel-wise attention: SENet
+
 
 
