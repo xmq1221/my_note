@@ -40,7 +40,7 @@ SENet 具有 channel-wise attention
 在 ECA 里面确实解决了部分 channel 交互的问题，但是通道间交互仍然是存在于临近 k 个通道之间，如果能与 non-local 结合起来但是仍然能保持较小的参数的话？
 
 ## **全局**
-
+具有全局的交互，但是使用了过多的 fc 层，在网络前面的层使用的话参数量暴增，消耗过大
 
 ## references
 [Non-local neural networks-zhihu](https://zhuanlan.zhihu.com/p/33345791)
