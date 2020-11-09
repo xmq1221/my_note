@@ -46,3 +46,8 @@ SENet 具有 channel-wise attention
 [Non-local neural networks-zhihu](https://zhuanlan.zhihu.com/p/33345791)
 
 
+# attention
+
+attention map 为统计每个通道上空间中的注意力， 
+
+
