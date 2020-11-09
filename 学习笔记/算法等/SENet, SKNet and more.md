@@ -37,7 +37,7 @@ SENet 具有 channel-wise attention
 
 # Non-local Neural Networks
 
-在 ECA 里面确实
+在 ECA 里面确实解决了部分 channel 交互的问题，但是通道间交互仍然是存在于临近 k 个通道之间，如果能与 non-local 结合起来但是仍然能保持
 
 ## references
 [Non-local neural networks-zhihu](https://zhuanlan.zhihu.com/p/33345791)
