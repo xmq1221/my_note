@@ -38,6 +38,6 @@ SENet 具有 channel-wise attention
 # Non-local Neural Networks
 
 ## references
-[Non-local neural networks-zhihu]()
+[Non-local neural networks-zhihu](https://zhuanlan.zhihu.com/p/33345791)
 
 
