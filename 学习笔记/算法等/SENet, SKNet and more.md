@@ -48,6 +48,8 @@ SENet 具有 channel-wise attention
 
 # attention
 
-attention map 为统计每个通道上空间中的注意力， 
+attention map 为统计每个通道上空间中的注意力， channel-wise attention 为统计对每个通道的注意力，一个是在空间上挤压，一个是在维度上挤压，是不是可以都注意一下呢？
+
+attention mao
 
 
